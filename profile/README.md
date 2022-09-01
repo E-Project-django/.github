@@ -28,7 +28,7 @@
 
 | 과제명 | 구현 내용 | 깃허브 링크 |
 | --- | --- | --- |
-| E-Board | User권한에 따른 여러 게시판 권한 제어 및 사이트 이용자 분석 | [🐰to repo(click!)]() |
+| E-Board | User 권한에 따른 여러 게시판 기능 제어 및 사이트 이용자 분석 | [🐰to repo(click!)]() |
 |  |  | [🐥to repo(click!)]()|
 |  |  | [🐥to repo(click!)]()|
 |  |  | [🐥to repo(click!)]()|
