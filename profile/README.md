@@ -1,5 +1,5 @@
 <div align="center"">
-  <img src="https://capsule-render.vercel.app/api?type=Rounded&color=97dbad&height=100&section=header&fontColor=656966&text= Django E-Project team &fontSize=45&width=100%&animation=twinkling" /><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Django%20E-Project&fontSize=60&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62" /><br/>
 
   ## Backend-course
   
