@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
   </p>
   
-  ## <b> Team A members 👋🏻 </br>
+  ## <b> Team members 👋🏻 </br>
   <a href="https://github.com/tjdans1201">윤성문</a>
   <a href="https://github.com/blessian">이승현</a>
   <a href="https://github.com/byeonghwijeong">정병휘</a>
