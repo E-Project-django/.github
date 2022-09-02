@@ -1,7 +1,7 @@
 <div align="center"">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Django%20E-Project&fontSize=60&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62" /><br/>
 
-  ## Backend-course
+  ## Purpose
   
   <p dir="auto">
       기업의 실전과제와 팀단위 동료학습을 통해 직무 역량 향상<br>
@@ -28,7 +28,7 @@
 
 | 프로젝트명 | 구현 내용 | 깃허브 링크 |
 | --- | --- | --- |
-| E-Board | User 권한에 따른 여러 게시판 기능 제어 및 사이트 이용자 분석 | [🐰to repo(click!)]() |
+| E-Board | User 권한에 따른 여러 게시판 기능 제어 및 사이트 이용자 분석 | [🐰to repo(click!)](https://github.com/E-Project-django/user-board-service) |
 |  |  | [🐥to repo(click!)]()|
 |  |  | [🐥to repo(click!)]()|
 |  |  | [🐥to repo(click!)]()|
