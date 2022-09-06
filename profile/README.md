@@ -20,10 +20,9 @@
   </p>
   
   ## <b> Team members 👋🏻 </br>
-  <a href="https://github.com/tjdans1201">윤성문</a>
-  <a href="https://github.com/blessian">이승현</a>
-  <a href="https://github.com/byeonghwijeong">정병휘</a>
-  <a href="https://github.com/song-hee-1">한송희</a>
+|윤성문|이승현|정병휘|한송희|
+|:------:|:------:|:------:|:------:|
+|[Github](https://github.com/tjdans1201) | [Github](https://github.com/blessian) | [Github](https://github.com/byeonghwijeong) | [Github](https://github.com/song-hee-1) |
   <br />
 
 | 프로젝트명 | 구현 내용 | 깃허브 링크 |
