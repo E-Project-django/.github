@@ -27,10 +27,14 @@
 
 | 프로젝트명 | 구현 내용 | 깃허브 링크 |
 | --- | --- | --- |
-| E-Board | User 권한에 따른 여러 게시판 기능 제어 및 사이트 이용자 분석 | [🐰to repo(click!)](https://github.com/E-Project-django/user-board-service) |
-|  |  | [🐥to repo(click!)]()|
+| E-Board | User 권한에 따른 여러 게시판 기능 제어 및 사이트 이용자 분석 | [🐥to repo(click!)](https://github.com/E-Project-django/user-board-service) |
+| Encryptional_Board | Weather API활용한 게시판 구현 & 암호화 | 🐥하단링크 |
 |  |  | [🐥to repo(click!)]()|
 |  |  | [🐥to repo(click!)]()|
 
 
+### 🌐개인 프로젝트 repo - Encryptional_Board with Weather API
+|윤성문|이승현|정병휘|한송희|
+|:------:|:------:|:------:|:------:|
+|[Github](https://github.com/tjdans1201) | [Github](https://github.com/blessian) | [Github](https://github.com/byeonghwijeong) | [Github](https://github.com/song-hee-1) |
 </div>
