@@ -33,7 +33,7 @@
 |  |  | [🐥to repo(click!)]()|
 
 
-### 🌤️개인 프로젝트 repo - Weather-Board
+### 🌤️개인 프로젝트 : Weather-Board
 |윤성문|이승현|정병휘|한송희|
 |:------:|:------:|:------:|:------:|
 |[Github](https://github.com/tjdans1201/wheather_boards) | [Github](https://github.com/blessian) | [Github](https://github.com/ByeonghwiJeong/flow-board) | [Github](https://github.com/song-hee-1/weather-diary-service) |
